@@ -1,0 +1,18 @@
+using System;
+
+namespace ConsoleCreatures
+{
+  class Program
+  {
+    static void Main()
+    {
+      //The purpose of this program is to display a creature for entertainment purposes.
+      Console.WriteLine(" .-.");
+      Console.WriteLine("(o o)");
+      Console.WriteLine("| o |");
+      Console.WriteLine("|   |");
+      Console.WriteLine("'~~~'");
+      Console.WriteLine("Meet Taki, the goulish ghost!");
+     }
+  }
+}
